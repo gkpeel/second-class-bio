@@ -1,2 +1,2 @@
 # second-class-bio
-Creating a student bio website
+Created a student bio website
